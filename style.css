@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(180deg,lightblue, darkblue);
+    background: linear-gradient(180deg,lightblue, rgb(207, 187, 120));
     padding: 10px;
 }
 
@@ -73,7 +73,7 @@ ul li{
 ul li.checked{
     color: #555;
     text-decoration: line-through;
-
+    ;
 }
 
 
